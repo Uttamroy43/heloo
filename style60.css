@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body {
+    background-color: antiquewhite;
+    
+}
+.container {
+    border: 1px solid red;
+    width: 500px;
+    height: auto;
+    margin: 0 auto;
+    text-align: center;
+    background-color: aquamarine;
+    
+}
+.main {
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    top: 50%;
+    left: 50%;
+}
+.head {
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: 10px;
+    text-shadow: 2px 4px 8px blueviolet;
+    
+}
+td,th {
+    border: 1px solid red;
+    
+    
+    
+
+}
+table {
+    
+  margin-left: auto; 
+  margin-right: auto;
+  border-collapse: collapse;
+  padding: 5px;
+  font-size: 30px;
+  justify-content: center;
+  align-items: center;
+  
+  
+
+    
+}
+.head:hover{
+    background-color: blanchedalmond;
+}
+tr:hover {
+    background-color: aliceblue;
+    color: blueviolet;
+}
+table:hover {
+    box-shadow: 0 8px 16px 0 black;
+    
+}
